@@ -9,8 +9,9 @@ import ETHBlockNumber from '../../views/ETH/BlockNumber'
 import ETHCoinBase from '../../views/ETH/CoinBase'
 import ETHApprove from '../../views/ETH/Approve'
 
+initProvider();
 // const Provider = new OntoProvider()
-// // @ts-ignore
+// @ts-ignore
 // const web3 = new Web3(Provider)
 
 // initProvider()
